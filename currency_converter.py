@@ -43,7 +43,7 @@ def main(argv):
                              "currency": input_currency},
                          "output": output_rates}
 
-    print(json.dumps(output_final_json, indent=4))
+    print(json.dumps(output_final_json, indent=4, sort_keys=True))
 
 
 main(sys.argv[1:])
