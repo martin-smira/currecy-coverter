@@ -13,6 +13,6 @@ AUD, BGN, BRL, CAD, CHF, CNY, CZK, DKK, GBP, HKD, HRK, HUF, IDR, ILS, INR, JPY, 
 Additionaly, four currency symbols ($, €, £, ¥) are supported, these represent USD, EUR, GBP, and CNY.
 
 ### Warning
-The script is not handling exceptions and errors.
+The script is not handling exceptions and errors, use it wisely!
 
 Enjoy
